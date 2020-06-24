@@ -1,4 +1,4 @@
-# Brave Browser
+# Brave Web Browser
 
 
 ## Overview
